@@ -8,5 +8,17 @@ body {
 }
 marquee{
     font-size: 2rem;
-    
+    color: orangered;
+    z-index: 1;
+
+}
+
+header{
+    background-image: url(pic.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
 }
